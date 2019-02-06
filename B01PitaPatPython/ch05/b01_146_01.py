@@ -16,7 +16,7 @@ if sunny1 == True :
 else :
     print("날씨가 흐립니다.")
 
-
+#
 if ((time1 >= 6 and time1 <= 9) or (time1 >= 14 and time1 <= 16)) and sunny1 == True :
     print("좋은 아침입니다. ")
     print("종달새가 노래 합니다.")
